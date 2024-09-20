@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my test blog
 ---
 
 test text 1
