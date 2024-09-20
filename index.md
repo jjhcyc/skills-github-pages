@@ -1,6 +1,3 @@
 ---
-title: Welcome to my test blog
+title: Welcome to my GitHub Page
 ---
-#header 1
-test text 1
-
